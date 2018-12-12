@@ -1,6 +1,6 @@
 # docker-monitoring
 
-Docker containers monitoring with cadvisor, prometheus and grafana
+Monitoring Docker container metrics using cAdvisor, prometheus and grafana
 
 ## Deployment
 
